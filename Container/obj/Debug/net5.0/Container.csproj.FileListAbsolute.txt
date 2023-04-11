@@ -1,0 +1,12 @@
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.AssemblyInfoInputs.cache
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.AssemblyInfo.cs
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.csproj.CoreCompileInputs.cache
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\bin\Debug\net5.0\Container.deps.json
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\bin\Debug\net5.0\Container.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\bin\Debug\net5.0\ref\Container.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\bin\Debug\net5.0\Container.pdb
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\ref\Container.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.pdb
+C:\Users\panah.hajiyev\source\repos\Katech_Task\Container\obj\Debug\net5.0\Container.csproj.AssemblyReference.cache

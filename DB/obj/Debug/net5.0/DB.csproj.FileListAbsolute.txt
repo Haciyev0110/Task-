@@ -1,0 +1,15 @@
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.csproj.AssemblyReference.cache
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.AssemblyInfoInputs.cache
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.AssemblyInfo.cs
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\DB.deps.json
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\DB.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\ref\DB.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\DB.pdb
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\Container.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\bin\Debug\net5.0\Container.pdb
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.csproj.CopyComplete
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\ref\DB.dll
+C:\Users\panah.hajiyev\source\repos\Katech_Task\DB\obj\Debug\net5.0\DB.pdb
